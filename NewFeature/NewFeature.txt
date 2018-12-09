@@ -1,1 +1,1 @@
-Creating a merge conflict.
+Resolved Merge conflict locally in the file, all is good again.
