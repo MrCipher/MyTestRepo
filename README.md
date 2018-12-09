@@ -1,4 +1,4 @@
 # MyTestRepo
-Just trying things
+Just trying Demo things
 
 Isn't git nice ;)
