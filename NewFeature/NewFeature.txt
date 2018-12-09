@@ -1,1 +1,2 @@
 Resolved Merge conflict locally in the file, all is good again.
+Bla Bla.
